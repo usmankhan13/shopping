@@ -1,0 +1,161 @@
+.borderb{
+    background-color: rgb(243, 243, 243);    
+    }
+    .border1{
+    background-color:white;    
+    }
+    .padding{
+        padding:  15px;
+        margin: 10px;
+    }
+    
+    
+    
+    .div1{
+        max-width: 50%;
+        max-height:50% ;
+        
+    }
+    
+    .borde22r{
+       
+        padding-top: 20%;
+        line-height: 100vh;
+    
+    
+    }
+    
+    
+    .loginImage{
+        
+        width: 15em;
+        height: 15em;
+    
+    }
+    
+    .loginImage1{
+        
+        width: 25em;
+        height: 25em;
+    
+    }
+    /* *********************************************************************************/
+    .navbar {
+        overflow: hidden;
+        background-color: #333;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+    
+    .navbar a {
+        float: left;
+        font-size: 16px;
+        color: white;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+    }
+    
+    .dropdown {
+        float: left;
+        overflow: hidden;
+    }
+    
+    .dropdown .dropbtn {
+        font-size: 16px;    
+        border: none;
+        outline: none;
+        color: white;
+        padding: 14px 16px;
+        background-color: inherit;
+        font-family: inherit;
+        margin: 0;
+    }
+    
+    .navbar a:hover, .dropdown:hover .dropbtn {
+        background-color: red;
+    }
+    
+    .dropdown-content {
+        display: none;
+        position: absolute;
+        background-color: #f9f9f9;
+        min-width: 160px;
+        box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+        z-index: 1;
+    }
+    
+    .dropdown-content a {
+        float: none;
+        color: black;
+        padding: 12px 16px;
+        text-decoration: none;
+        display: block;
+        text-align: left;
+    }
+    
+    .dropdown-content a:hover {
+        background-color: #ddd;
+    }
+    
+    .dropdown:hover .dropdown-content {
+        display: block;
+    }
+    /* ******************************************************************************** */
+    .main-nav {
+      background: rgb(238, 175, 59); }
+    
+      main-nav ul {
+        width: 100%; }
+      main-nav li {
+        
+        width: 16.66667%; }
+      main-nav a {
+        color: #0000c7;
+        padding: 16px;
+        display: block;
+        text-align: center; }
+        main-nav a:hover {
+          background: #0000e6; }
+        
+    
+    
+    .wrapper{
+        float: left;
+     
+          }
+    
+
+          /* ***************** DEL VIEW UPDATE css ******************** */
+
+          .p1{
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: 1.75em;
+        }
+
+        .pp2{
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: 2.85em;
+            text-align: center;
+            background-color: antiquewhite;   
+            
+        }
+
+        .border{
+            border: 0.25em;
+            border-style: solid;
+            
+
+
+        }
+
+        .font{
+            font-size: 1.2em;
+        }
+       
+       a:hover{
+           background-color: rgb(7, 205, 255);
+           font-size: 1.3em;
+       }
+
+
+
